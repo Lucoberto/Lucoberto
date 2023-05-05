@@ -10,4 +10,4 @@ Una mini web para probar GitHub Pages [Mi pequeña web](https://lucoberto.github
 
 Documentacion variada [Documentacion](https://github.com/Lucoberto/documentacion)
 
-Mi configuracion de VIM [VIM config](https://github.com/Lucoberto/documentacion)
+Mi configuracion de VIM [Mi config de vim](https://github.com/Lucoberto/my-vim-conf)
