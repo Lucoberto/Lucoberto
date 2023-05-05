@@ -9,3 +9,5 @@ Un claro ejemplo de mis scripts es este [Cat pero mejor](https://github.com/Luco
 Una mini web para probar GitHub Pages [Mi pequeña web](https://lucoberto.github.io/lucoberto-web/)
 
 Documentacion variada [Documentacion](https://github.com/Lucoberto/documentacion)
+
+Mi configuracion de VIM [VIM config](https://github.com/Lucoberto/documentacion)
