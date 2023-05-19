@@ -20,7 +20,6 @@ Hola mi nombre es Jon, soy administrador de sistemas, aunque me gustaria ser DEV
 
 ## Scripting:
 [![Python](https://img.shields.io/badge/python-0d5470?style=for-the-badge&logo=python&logoColor=0d5470&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/python-0d5470?style=for-the-badge&logo=&logoColor=0d5470&labelColor=101010)]()
 
 ## DEVOPS:
 [![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=blue&labelColor=101010)]()
