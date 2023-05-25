@@ -1,7 +1,7 @@
 <h1 align="center">Hola, mi nombre es Jon 👋</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jon-ander-mateos-martinez/" title="LinkedIn - Jon Ander"><img src="https://img.shields.io/badge/-Jon Ander-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jon-ander-mateos-martinez/" title="LinkedIn - Jon"><img src="https://img.shields.io/badge/-Jon Ander-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
 </p>
 <p align="center"><b>
 Hola, mi nombre es Jon soy administrador de sistemas aunque me gustaria ser DEVOPS para ello en mis ratos libre me dedico a intentar aprender a programar y usar herramientas como docker.
@@ -9,6 +9,7 @@ Hola, mi nombre es Jon soy administrador de sistemas aunque me gustaria ser DEVO
 <br>
 <h1 align="center">Utilidades variadas</h1>
 
+[Proxmox auto deploy VM](https://github.com/Lucoberto/proxmox-autodeploy)
 
 [Cat pero mejor](https://github.com/Lucoberto/cut-beautiful)
 
@@ -17,6 +18,7 @@ Hola, mi nombre es Jon soy administrador de sistemas aunque me gustaria ser DEVO
 [Mi documentacion](https://github.com/Lucoberto/documentacion)
 
 [Mi config de vim](https://github.com/Lucoberto/my-vim-conf)
+
 
 
 <h1 align="center">Tecnologias</h1>
