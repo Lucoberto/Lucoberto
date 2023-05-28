@@ -1,10 +1,10 @@
-<h1 align="center">Hola, mi nombre es Jon 👋</h1>
+<h1 align="center">Hola, mi nombre es Jon Ander 👋</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jon-ander-mateos-martinez/" title="LinkedIn - Jon"><img src="https://img.shields.io/badge/-Jon-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jon-ander-mateos-martinez/" title="LinkedIn - Jon"><img src="https://img.shields.io/badge/-Jon Ander-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
 </p>
 <p align="center"><b>
-Hola, mi nombre es Jon soy administrador de sistemas aunque me gustaria ser DEVOPS para ello en mis ratos libre me dedico a intentar aprender a programar y usar herramientas como docker.
+Hola, mi nombre es Jon Ander soy administrador de sistemas aunque me gustaria ser DEVOPS para ello en mis ratos libre me dedico a intentar aprender a programar y usar herramientas como docker.
 </b></p>
 <br>
 <h1 align="center">Utilidades variadas</h1>
