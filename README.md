@@ -26,6 +26,7 @@ Hola, mi nombre es Jon Ander. Soy administrador de sistemas aunque me gustaría 
 ## Scripting:
 [![Python](https://img.shields.io/badge/python-0d5470?style=for-the-badge&logo=python&logoColor=0d5470&labelColor=101010)]()
 [![Bash](https://img.shields.io/badge/bash-green?style=for-the-badge&logo=gnubash&logoColor=green&labelColor=101010)]()
+[![Php](https://img.shields.io/badge/php-blue?style=for-the-badge&logo=gnubash&logoColor=blue&labelColor=101010)]()
 ## DEVOPS:
 [![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=blue&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=orange&labelColor=101010)]()
