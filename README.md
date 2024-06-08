@@ -31,7 +31,7 @@ Hola, mi nombre es Jon Ander. Soy administrador de sistemas aunque me gustaría 
 ## DevOps:
 [![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=blue&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=orange&labelColor=101010)]()
-[![CircleCI](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=orange&labelColor=101010)]()
+[![CircleCI](https://img.shields.io/badge/circleci-black?style=for-the-badge&logo=git&logoColor=orange&labelColor=101010)]()
 
 ## Editores:
 [![Vim](https://img.shields.io/badge/vim-179e19?style=for-the-badge&logo=vim&logoColor=179e19&labelColor=101010)]()
