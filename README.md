@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/jon-ander-mateos-martinez/" title="LinkedIn - Jon"><img src="https://img.shields.io/badge/-Jon Ander-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
 </p>
 <p align="center"><b>
-Hola, mi nombre es Jon Ander. Soy administrador de sistemas aunque me gustaría ser DevOps, para ello en mis ratos libres me dedico a aprender a programar y usar herramientas como docker.
+Hola, mi nombre es Jon Ander. Tengo un gran interés en las automatizaciones y en el uso de herramientas DevOps, ya que permiten optimizar procesos, mejorar la eficiencia y garantizar una mayor estabilidad en los entornos de desarrollo y operación. Me apasiona explorar nuevas tecnologías y metodologías que faciliten la integración, entrega continua y gestión de infraestructuras de manera ágil y automatizada.
 </b></p>
 <br>
 <h1 align="center">Utilidades variadas</h1>
