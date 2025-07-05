@@ -13,8 +13,6 @@ Hola, mi nombre es Jon Ander. Tengo un gran interés en las automatizaciones y e
 
 [Mi script para crear usuarios AD](https://github.com/Lucoberto/AD_user_creation)
 
-[Mi pagina web](https://lucoberto.github.io/lucoberto-web/)
-
 [Mi documentacion](https://github.com/Lucoberto/documentacion)
 
 [Mi config de vim](https://github.com/Lucoberto/my-vim-conf)
