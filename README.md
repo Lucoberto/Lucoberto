@@ -25,7 +25,7 @@ Hola, mi nombre es Jon Ander. Tengo un gran interés en las automatizaciones y e
 [![Python](https://img.shields.io/badge/python-0d5470?style=for-the-badge&logo=python&logoColor=0d5470&labelColor=101010)]()
 [![Bash](https://img.shields.io/badge/bash-green?style=for-the-badge&logo=gnubash&logoColor=green&labelColor=101010)]()
 [![Php](https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php&logoColor=blue&labelColor=101010)]()
-[![Powershell](https://img.shields.io/badge/powershell-blue?style=for-the-badge&logo=powershell&logoColor=blue&labelColor=101010)]()
+[![Powershell](https://img.shields.io/badge/gnometerminal-blue?style=for-the-badge&logo=gnometerminal&logoColor=blue&labelColor=101010)]()
 
 ## DevOps:
 [![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=blue&labelColor=101010)]()
