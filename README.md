@@ -29,6 +29,7 @@ Hola, mi nombre es Jon Ander. Tengo un gran interés en las automatizaciones y e
 
 ## DevOps:
 [![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=blue&labelColor=101010)]()
+[![Packer](https://img.shields.io/badge/packer-blue?style=for-the-badge&logo=packer&logoColor=blue&labelColor=02A8EF)]()
 [![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=orange&labelColor=101010)]()
 [![CircleCI](https://img.shields.io/badge/circleci-black?style=for-the-badge&logo=circleci&logoColor=343434&labelColor=101010)]()
 
