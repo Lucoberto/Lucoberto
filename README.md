@@ -34,7 +34,7 @@ Hola, mi nombre es Jon Ander. Tengo un gran interés en las automatizaciones y e
 
 ## Editores:
 [![Vim](https://img.shields.io/badge/vim-179e19?style=for-the-badge&logo=vim&logoColor=179e19&labelColor=101010)]()
-[![Vscode](https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=visualestudiocode&logoColor=blue&labelColor=101010)]()
+[![code](https://img.shields.io/badge/code-blue?style=for-the-badge&logo=code&logoColor=blue&labelColor=101010)]()
 
 ## Otros:
 [![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=yellow&labelColor=101010)]()
